@@ -1,0 +1,35 @@
+*
+body{
+    background-color: burlywood;
+}
+button,form{
+    margin-left: 27px;
+}
+table{
+    align-items: center;
+    text-align: center;
+}
+.btn{
+    margin-top: 20px;
+    border-collapse: collapse;
+    margin-left: 20px;
+    padding: 10px 20px;
+    background-color: beige;
+}
+.btn_tampil{
+    background-color: mediumslateblue;
+    color: white;
+}
+.btn_update{
+    background-color: mediumpurple;
+    color: white;
+}
+.btn_delete{
+    background-color:brown;
+    color: white;
+}
+footer{
+    background-color: rgb(236, 153, 120);
+    color: rgb(54, 59, 59);
+    padding: 3% 3%;
+}
