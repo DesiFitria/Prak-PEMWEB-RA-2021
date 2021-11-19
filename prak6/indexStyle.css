@@ -1,0 +1,17 @@
+*
+
+header{
+    font-size: x-large;
+    text-align: center;
+    background-color: #B5B9FF;
+}
+body{
+    background-color: #BDE0FF;
+}
+form{
+    margin-left: 20px;
+}
+button{
+    margin-left: 16px;
+    color:saddlebrown;
+}
