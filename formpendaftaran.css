@@ -1,0 +1,33 @@
+*
+body{
+    background-color: rgb(216, 103, 103);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.25em 0.25em 0;
+    margin-top: 190px;
+}
+li {
+    float: left;
+}
+li a{
+    text-align: center;
+    color: black;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    color: rgb(129, 102, 55);
+}
+ul{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(110, 185, 110);
+    list-style-type: none;
+    overflow: hidden;
+}
+.active{
+    background-color: burlywood;
+}
